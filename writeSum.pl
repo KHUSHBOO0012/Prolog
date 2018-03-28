@@ -1,0 +1,1 @@
+printSum() :- write('Give first number'), read(X), write('Give second number'), read(Y), Z is X+Y, write(Z).
